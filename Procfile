@@ -1,1 +1,1 @@
-web:python run.y
+web:python run.py
